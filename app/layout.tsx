@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: '28/04/2025 💝',
+  title: '29/04/2025 💝',
   icons: { icon: "/favicon.ico" },
 }
 
